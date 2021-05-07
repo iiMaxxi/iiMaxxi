@@ -31,12 +31,12 @@
 
 # Segue lista:
 
-- [x] Adoro ovos
-- [ ] Google é bom.
-- [x] Sou chato.
-- [ ] Chocolate é bom
-- [x] Não tenho amigos
-- [ ] Lacoste morde
-- [x] aff, sla qq eu boto aki
+- [x] Odeio ovos
+- [ ] Sou chato.
+- [x] Google é bom.
+- [ ] Chocolate não é bom
+- [x] Tenho amigos
+- [ ] Lacoste não morde
+- [x] aff, sla qq eu boto aki kaka
 
 
