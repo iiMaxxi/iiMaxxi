@@ -1,7 +1,7 @@
 ## Peril - iiMaxxi
 <badges>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Isqne)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/iiMaxxi)
 
 </badges>
 
@@ -20,11 +20,9 @@
 ## Adoro comer macarrão e Pizza 🥰!
 #### Eu programo desde dos 8 anos.
 ```
-          '||\   /||`                            
- ''   ''   ||\\.//||                         ''  
- ||   ||   ||     ||   '''|.  \\  // \\  //  ||  
- ||   ||   ||     ||  .|''||    ><     ><    ||  
-.||. .||. .||     ||. `|..||. //  \\ //  \\ .||. 
+ Qm leu é topiiii
+ 
+ Segue meu amigo pfv c: | Isqneeh
    
 ```
 
