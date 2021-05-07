@@ -1,16 +1,46 @@
-### Hi there 👋
+## Peril - iiMaxxi
+<badges>
 
-<!--
-**iiMaxxi/iiMaxxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/Isqne)
 
-Here are some ideas to get you started:
+</badges>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Olá, sou um garotinho muito esperto que deseja virar um programador c:
+<h4 align=center>
+  <img style="border-radius: 5%;" src="https://i.imgur.com/85v4YpR.jpeg" width="1000px" alt="720px;"/>
+</h4>
+
+<p>
+  <h2>Agora estou programando mais Python!</h2>
+</p>
+
+### Info do meu perfil
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iimaxxi&layout=compact)](https://github.com/iiMaxxi/GrabberTool)
+
+
+## Adoro comer macarrão e Pizza 🥰!
+#### Eu programo desde dos 8 anos.
+```
+          '||\   /||`                            
+ ''   ''   ||\\.//||                         ''  
+ ||   ||   ||     ||   '''|.  \\  // \\  //  ||  
+ ||   ||   ||     ||  .|''||    ><     ><    ||  
+.||. .||. .||     ||. `|..||. //  \\ //  \\ .||. 
+   
+```
+
+## Coisas que eu não gosto e gosto.
+
+
+# Segue lista:
+
+- [x] Adoro ovos
+- [ ] Google é bom.
+- [x] Sou chato.
+- [ ] Chocolate é bom
+- [x] Não tenho amigos
+- [ ] Lacoste morde
+- [x] aff, sla qq eu boto aki
+
+
