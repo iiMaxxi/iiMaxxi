@@ -6,9 +6,7 @@
 </badges>
 
 ##### Olá, sou um garotinho muito esperto que deseja virar um programador c:
-<h4 align=center>
-  <img style="border-radius: 5%;" src="https://i.imgur.com/85v4YpR.jpeg" width="500px" alt="720px;"/>
-</h4>
+
 
 <p>
   <h2>Agora estou programando mais Python!</h2>
